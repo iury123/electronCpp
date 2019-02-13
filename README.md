@@ -1,6 +1,6 @@
 # Electroncpp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+[Fonte](https://medium.com/@atulanand94/beginners-guide-to-writing-nodejs-addons-using-c-and-n-api-node-addon-api-9b3b718a9a7f) 
 
 ## Development server
 
